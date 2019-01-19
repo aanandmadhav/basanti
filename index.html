@@ -174,26 +174,26 @@ color: #E06614;
 		window.jModalClose = function () {
 			SqueezeBox.close();
 		};
-		
+
 		// Add extra modal close functionality for tinyMCE-based editors
 		document.onreadystatechange = function () {
 			if (document.readyState == 'interactive' && typeof tinyMCE != 'undefined' && tinyMCE)
 			{
 				if (typeof window.jModalClose_no_tinyMCE === 'undefined')
-				{	
+				{
 					window.jModalClose_no_tinyMCE = typeof(jModalClose) == 'function'  ?  jModalClose  :  false;
-					
+
 					jModalClose = function () {
 						if (window.jModalClose_no_tinyMCE) window.jModalClose_no_tinyMCE.apply(this, arguments);
 						tinyMCE.activeEditor.windowManager.close();
 					};
 				}
-		
+
 				if (typeof window.SqueezeBoxClose_no_tinyMCE === 'undefined')
 				{
 					if (typeof(SqueezeBox) == 'undefined')  SqueezeBox = {};
 					window.SqueezeBoxClose_no_tinyMCE = typeof(SqueezeBox.close) == 'function'  ?  SqueezeBox.close  :  false;
-		
+
 					SqueezeBox.close = function () {
 						if (window.SqueezeBoxClose_no_tinyMCE)  window.SqueezeBoxClose_no_tinyMCE.apply(this, arguments);
 						tinyMCE.activeEditor.windowManager.close();
@@ -201,7 +201,7 @@ color: #E06614;
 				}
 			}
 		};
-		
+
 jQuery(window).on('load',  function() {
 				new JCaption('img.caption');
 			});
@@ -216,9 +216,9 @@ jQuery(function($){ $(".dropdown-toggle").dropdown(); });
 					enableDesktopMenuSticky	: 0,
 					responsiveLayout		: []
 				});
-			
+
 					window.addEvent("domready", JSNUtils.setDesktopOnMobile);
-				
+
 	</script>
 
 </head><meta name="google-site-verification" content="p-Jki6sYQX5AKC8fFqMHi8UuCg69TN7Sl_8PMQ8YQQ0" />
@@ -317,9 +317,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
     <div class="mod_simple_marquee_content"><font  color="white"><b>THOUGHT FOR THE YEAR 2017!!! - IF IT IS TO BE, IT IS UP TO ME</b> </font></div>
 </div><div class="clearbreak"></div></div></div></div></div></div><div class=" jsn-modulecontainer"><div class="jsn-modulecontainer_inner"><div><div><div class="jsn-modulecontent"><!-- JSN IMAGESHOW FREE 4.8.6 - Theme Classic 1.3.2 --><div class="jsn-container"><div class="jsn-gallery"><div style="max-width:100%; margin: 0 auto;"><div id="jsn-themeclassic-jsgallery-4AYsf"><div id="jsn-themeclassic-galleria-4AYsf">
-<a href="images/slider/slide1.jpg"><img title="" alt="" src="images/jsn_is_thumbs/images/slider/slide1.html" longdesc="index-2.html" /></a>
-<a href="images/slider/slide2.jpg"><img title="" alt="" src="images/jsn_is_thumbs/images/slider/slide2.html" longdesc="index-2.html" /></a>
-<a href="images/slider/slide3.jpg"><img title="" alt="" src="images/jsn_is_thumbs/images/slider/slide3.html" longdesc="index-2.html" /></a>
+<img src="slide1.jpg" alt="">
 </div></div></div>
 <script type="text/javascript">jsnThemeClassicjQuery(function() {jsnThemeClassicjQuery("#jsn-themeclassic-galleria-4AYsf").galleria({autoplay:8000,thumbnails: false,showImagenav: false,pauseOnInteraction: false,showInfo: false,infoPanelShowTitle: true,infoPanelShowDescription: true,popupLinks:true,imageClickAction:true,showImageLink:false,loop:true,thumbHeight:40,thumbPosition:"bottom",imageCrop: true,informationPanelClickAction:false,height:300, initialTransition: "fade", transition: "slide", thumbCrop: false, thumbFit: false, thumbQuality: false, showCounter: false, imageTimeout: 300000});});</script><div class="jsn-themeclassic-seocontent">
 <p>Joomla gallery extension by <a href="http://www.joomlashine.com/" title="Joomla gallery">joomlashine.com</a></p>
@@ -360,8 +358,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <div class="items-leading">
 			<div class="leading-0 items-row">
-			
-	
+
+
 		<div class="jsn-article-toolbar">
 					<div class="clearfix"></div>
 	</div>

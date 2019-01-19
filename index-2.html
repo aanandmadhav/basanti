@@ -1,9 +1,6 @@
 <!DOCTYPE html>
 <!-- jsn_dome_free 4.0.2 -->
 <html lang="en-gb" dir="ltr">
-
-<!-- Mirrored from caforstartups.com/basanti/ by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 18 Jan 2019 19:37:12 GMT -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
 <head>
 		<base  />
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
@@ -174,26 +171,26 @@ color: #E06614;
 		window.jModalClose = function () {
 			SqueezeBox.close();
 		};
-		
+
 		// Add extra modal close functionality for tinyMCE-based editors
 		document.onreadystatechange = function () {
 			if (document.readyState == 'interactive' && typeof tinyMCE != 'undefined' && tinyMCE)
 			{
 				if (typeof window.jModalClose_no_tinyMCE === 'undefined')
-				{	
+				{
 					window.jModalClose_no_tinyMCE = typeof(jModalClose) == 'function'  ?  jModalClose  :  false;
-					
+
 					jModalClose = function () {
 						if (window.jModalClose_no_tinyMCE) window.jModalClose_no_tinyMCE.apply(this, arguments);
 						tinyMCE.activeEditor.windowManager.close();
 					};
 				}
-		
+
 				if (typeof window.SqueezeBoxClose_no_tinyMCE === 'undefined')
 				{
 					if (typeof(SqueezeBox) == 'undefined')  SqueezeBox = {};
 					window.SqueezeBoxClose_no_tinyMCE = typeof(SqueezeBox.close) == 'function'  ?  SqueezeBox.close  :  false;
-		
+
 					SqueezeBox.close = function () {
 						if (window.SqueezeBoxClose_no_tinyMCE)  window.SqueezeBoxClose_no_tinyMCE.apply(this, arguments);
 						tinyMCE.activeEditor.windowManager.close();
@@ -201,7 +198,7 @@ color: #E06614;
 				}
 			}
 		};
-		jQuery(window).on('load',  function() {
+jQuery(window).on('load',  function() {
 				new JCaption('img.caption');
 			});jQuery(function($){ $(".dropdown-toggle").dropdown(); });
 				JSNTemplate.initTemplate({
@@ -214,9 +211,9 @@ color: #E06614;
 					enableDesktopMenuSticky	: 0,
 					responsiveLayout		: []
 				});
-			
+
 					window.addEvent("domready", JSNUtils.setDesktopOnMobile);
-				
+
 	</script>
 
 </head><meta name="google-site-verification" content="p-Jki6sYQX5AKC8fFqMHi8UuCg69TN7Sl_8PMQ8YQQ0" />
@@ -358,8 +355,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <div class="items-leading">
 			<div class="leading-0 items-row">
-			
-	
+
+
 		<div class="jsn-article-toolbar">
 					<div class="clearfix"></div>
 	</div>
@@ -428,5 +425,4 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 </body>
 
-<!-- Mirrored from caforstartups.com/basanti/ by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 18 Jan 2019 19:37:12 GMT -->
 </html>
