@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/basanti/components/com_imageshow/assets/css/style.css" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Video Gallery</title>
+		<description><![CDATA[]]></description>
+		<link>http://caforstartups.com/basanti/index.php/gallery/video-gallery</link>
+		<lastBuildDate>Fri, 18 Jan 2019 19:35:18 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://caforstartups.com/basanti/index.php/gallery/video-gallery?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<managingEditor>support@zenvisage.com (Basanti Caravan)</managingEditor>
+		<item>
+			<title>The Harpreet Singh Show</title>
+			<link>http://caforstartups.com/basanti/index.php/gallery/video-gallery/94-the-harpreet-singh-show</link>
+			<guid isPermaLink="true">http://caforstartups.com/basanti/index.php/gallery/video-gallery/94-the-harpreet-singh-show</guid>
+			<description><![CDATA[<table>
+<tbody>
+<tr>
+<td><iframe src="//www.youtube.com/embed/qCVLQiVrDbc" frameborder="0" width="500" height="400" allowfullscreen="allowfullscreen"></iframe></td>
+</tr>
+<tr valign="top">
+<td>
+<p>Arjan Singh on Gursikh</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>]]></description>
+			<author>aanand@sharetoknow.com (Aanand Madhav)</author>
+			<category>Video Gallery</category>
+			<pubDate>Sat, 26 Mar 2016 17:26:06 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

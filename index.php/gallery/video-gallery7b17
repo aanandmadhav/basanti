@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/basanti/components/com_imageshow/assets/css/style.css" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Video Gallery</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="http://caforstartups.com"/>
+	<id>http://caforstartups.com/basanti/index.php/gallery/video-gallery</id>
+	<updated>2019-01-18T19:35:19+00:00</updated>
+	<author>
+		<name>Basanti Caravan</name>
+		<email>support@zenvisage.com</email>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://caforstartups.com/basanti/index.php/gallery/video-gallery?format=feed&amp;type=atom"/>
+	<entry>
+		<title>The Harpreet Singh Show</title>
+		<link rel="alternate" type="text/html" href="http://caforstartups.com/basanti/index.php/gallery/video-gallery/94-the-harpreet-singh-show"/>
+		<published>2016-03-26T17:26:06+00:00</published>
+		<updated>2016-03-26T17:26:06+00:00</updated>
+		<id>http://caforstartups.com/basanti/index.php/gallery/video-gallery/94-the-harpreet-singh-show</id>
+		<author>
+			<name>Aanand Madhav</name>
+			<email>aanand@sharetoknow.com</email>
+		</author>
+		<summary type="html">&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;iframe src=&quot;//www.youtube.com/embed/qCVLQiVrDbc&quot; frameborder=&quot;0&quot; width=&quot;500&quot; height=&quot;400&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr valign=&quot;top&quot;&gt;
+&lt;td&gt;
+&lt;p&gt;Arjan Singh on Gursikh&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</summary>
+		<content type="html">&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;iframe src=&quot;//www.youtube.com/embed/qCVLQiVrDbc&quot; frameborder=&quot;0&quot; width=&quot;500&quot; height=&quot;400&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr valign=&quot;top&quot;&gt;
+&lt;td&gt;
+&lt;p&gt;Arjan Singh on Gursikh&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</content>
+		<category term="Video Gallery" />
+	</entry>
+</feed>

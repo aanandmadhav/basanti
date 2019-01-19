@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/basanti/components/com_imageshow/assets/css/style.css" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Publications</title>
+		<description><![CDATA[]]></description>
+		<link>http://caforstartups.com/basanti/index.php/publications</link>
+		<lastBuildDate>Fri, 18 Jan 2019 19:35:26 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://caforstartups.com/basanti/index.php/publications?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<managingEditor>support@zenvisage.com (Basanti Caravan)</managingEditor>
+		<item>
+			<title>Book &amp; Poster</title>
+			<link>http://caforstartups.com/basanti/index.php/publications/88-book-poster</link>
+			<guid isPermaLink="true">http://caforstartups.com/basanti/index.php/publications/88-book-poster</guid>
+			<description><![CDATA[<p>coming soon...</p>
+<p><a href="http://caforstartups.com/basanti/basanti/index.php/publications" class="btn">Back</a></p>]]></description>
+			<author>aanand@sharetoknow.com (Aanand Madhav)</author>
+			<category>Publications</category>
+			<pubDate>Mon, 24 Nov 2014 13:07:06 +0000</pubDate>
+		</item>
+		<item>
+			<title>Stickers</title>
+			<link>http://caforstartups.com/basanti/index.php/publications/87-stickers</link>
+			<guid isPermaLink="true">http://caforstartups.com/basanti/index.php/publications/87-stickers</guid>
+			<description><![CDATA[<div>[widgetkit id=2]</div>
+<p><a class="btn" href="http://caforstartups.com/basanti/basanti/index.php/publications">Back</a></p>]]></description>
+			<author>aanand@sharetoknow.com (Aanand Madhav)</author>
+			<category>Publications</category>
+			<pubDate>Mon, 24 Nov 2014 13:06:01 +0000</pubDate>
+		</item>
+		<item>
+			<title>Other Published item</title>
+			<link>http://caforstartups.com/basanti/index.php/publications/89-other-published-item</link>
+			<guid isPermaLink="true">http://caforstartups.com/basanti/index.php/publications/89-other-published-item</guid>
+			<description><![CDATA[<p>Coming soon....</p>
+<p><a href="http://caforstartups.com/basanti/basanti/index.php/publications" class="btn">Back</a></p>]]></description>
+			<author>aanand@sharetoknow.com (Aanand Madhav)</author>
+			<category>Publications</category>
+			<pubDate>Mon, 24 Nov 2014 13:07:38 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

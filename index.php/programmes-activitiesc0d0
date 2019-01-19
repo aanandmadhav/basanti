@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/basanti/components/com_imageshow/assets/css/style.css" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Programmes and Activities</title>
+		<description><![CDATA[]]></description>
+		<link>http://caforstartups.com/basanti/index.php/programmes-activities</link>
+		<lastBuildDate>Fri, 18 Jan 2019 19:35:22 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://caforstartups.com/basanti/index.php/programmes-activities?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<managingEditor>support@zenvisage.com (Basanti Caravan)</managingEditor>
+		<item>
+			<title>Programme and Activites</title>
+			<link>http://caforstartups.com/basanti/index.php/programmes-activities/73-programme-and-activites</link>
+			<guid isPermaLink="true">http://caforstartups.com/basanti/index.php/programmes-activities/73-programme-and-activites</guid>
+			<description><![CDATA[<p>Coming Soon</p>]]></description>
+			<author>aanand@sharetoknow.com (Aanand Madhav)</author>
+			<category>Programmes/Activities</category>
+			<pubDate>Wed, 10 Sep 2014 05:00:04 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

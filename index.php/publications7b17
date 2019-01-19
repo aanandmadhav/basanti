@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/basanti/components/com_imageshow/assets/css/style.css" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Publications</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="http://caforstartups.com"/>
+	<id>http://caforstartups.com/basanti/index.php/publications</id>
+	<updated>2019-01-18T19:35:27+00:00</updated>
+	<author>
+		<name>Basanti Caravan</name>
+		<email>support@zenvisage.com</email>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://caforstartups.com/basanti/index.php/publications?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Book &amp; Poster</title>
+		<link rel="alternate" type="text/html" href="http://caforstartups.com/basanti/index.php/publications/88-book-poster"/>
+		<published>2014-11-24T13:07:06+00:00</published>
+		<updated>2014-11-24T13:07:06+00:00</updated>
+		<id>http://caforstartups.com/basanti/index.php/publications/88-book-poster</id>
+		<author>
+			<name>Aanand Madhav</name>
+			<email>aanand@sharetoknow.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;coming soon...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://caforstartups.com/basanti/index.php?option=com_content&amp;amp;view=category&amp;amp;layout=blog&amp;amp;id=65&amp;amp;Itemid=871&quot; class=&quot;btn&quot;&gt;Back&lt;/a&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;coming soon...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://caforstartups.com/basanti/index.php?option=com_content&amp;amp;view=category&amp;amp;layout=blog&amp;amp;id=65&amp;amp;Itemid=871&quot; class=&quot;btn&quot;&gt;Back&lt;/a&gt;&lt;/p&gt;</content>
+		<category term="Publications" />
+	</entry>
+	<entry>
+		<title>Stickers</title>
+		<link rel="alternate" type="text/html" href="http://caforstartups.com/basanti/index.php/publications/87-stickers"/>
+		<published>2014-11-24T13:06:01+00:00</published>
+		<updated>2014-11-24T13:06:01+00:00</updated>
+		<id>http://caforstartups.com/basanti/index.php/publications/87-stickers</id>
+		<author>
+			<name>Aanand Madhav</name>
+			<email>aanand@sharetoknow.com</email>
+		</author>
+		<summary type="html">&lt;div&gt;[widgetkit id=2]&lt;/div&gt;
+&lt;p&gt;&lt;a class=&quot;btn&quot; href=&quot;http://caforstartups.com/basanti/index.php?option=com_content&amp;amp;view=category&amp;amp;layout=blog&amp;amp;id=65&amp;amp;Itemid=871&quot;&gt;Back&lt;/a&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;div&gt;[widgetkit id=2]&lt;/div&gt;
+&lt;p&gt;&lt;a class=&quot;btn&quot; href=&quot;http://caforstartups.com/basanti/index.php?option=com_content&amp;amp;view=category&amp;amp;layout=blog&amp;amp;id=65&amp;amp;Itemid=871&quot;&gt;Back&lt;/a&gt;&lt;/p&gt;</content>
+		<category term="Publications" />
+	</entry>
+	<entry>
+		<title>Other Published item</title>
+		<link rel="alternate" type="text/html" href="http://caforstartups.com/basanti/index.php/publications/89-other-published-item"/>
+		<published>2014-11-24T13:07:38+00:00</published>
+		<updated>2014-11-24T13:07:38+00:00</updated>
+		<id>http://caforstartups.com/basanti/index.php/publications/89-other-published-item</id>
+		<author>
+			<name>Aanand Madhav</name>
+			<email>aanand@sharetoknow.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;Coming soon....&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://caforstartups.com/basanti/index.php?option=com_content&amp;amp;view=category&amp;amp;layout=blog&amp;amp;id=65&amp;amp;Itemid=871&quot; class=&quot;btn&quot;&gt;Back&lt;/a&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;Coming soon....&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://caforstartups.com/basanti/index.php?option=com_content&amp;amp;view=category&amp;amp;layout=blog&amp;amp;id=65&amp;amp;Itemid=871&quot; class=&quot;btn&quot;&gt;Back&lt;/a&gt;&lt;/p&gt;</content>
+		<category term="Publications" />
+	</entry>
+</feed>
